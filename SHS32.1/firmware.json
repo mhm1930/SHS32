@@ -1,0 +1,7 @@
+{
+    "type": "esp32-fota-https",
+    "version": 1.0,
+    "host": "raw.githubusercontent.com",
+    "port": 443,
+    "bin": "/mhm1930/SHS32/master/SHS32.1/SHS32_1.bin"
+}
