@@ -1,5 +1,5 @@
 {
-    "type": "esp32-fota-https",
+    "type": "esp32-fota-http",
     "version": 2,
     "host": "raw.githubusercontent.com",
     "port": 443,
